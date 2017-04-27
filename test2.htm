@@ -3,12 +3,53 @@
 
 <body>
 
-<p class="increment">0</p>
+<p id="c1">0</p>
+<hr>
+<p id="c2">0</p>
+<hr>
+<p id="c3">0</p>
 
 <script type="text/javascript">
-var p = document.querySelector('p')
+var c1 = document.querySelector('#c1')
 
-window.onkeydown = function(e) {p.innerText=e.keyCode;}
+window.onkeydown = function(e) {
+if(e.keyCode == 100){//97
+    var number = parseInt(c1.innerText);
+    number++;
+    c1.innerText = number;
+}
+if(e.keyCode == 97){
+    var number = parseInt(c1.innerText);
+    number--;
+    c1.innerText = number;
+}
+
+if(e.keyCode == 101){//98
+    var number = parseInt(c2.innerText);
+    number++;
+    c2.innerText = number;
+}
+if(e.keyCode == 98){//98
+    var number = parseInt(c2.innerText);
+    number--;
+    c2.innerText = number;
+}
+
+if(e.keyCode == 102){//99
+    var number = parseInt(c3.innerText);
+    number++;
+    c3.innerText = number;
+}
+if(e.keyCode == 99){//99
+    var number = parseInt(c3.innerText);
+    number--;
+    c3.innerText = number;
+}
+//+,107 ; (keypad) enter,13
+
+//c1.innerText=e.keyCode;
+
+}
 </script>
 
 </body>
