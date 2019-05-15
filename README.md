@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+### Title / Inspiration
 
-You can use the [editor on GitHub](https://github.com/nogre/around_the_agora/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Around the Agora (Around the Horn, ESPN tv show featuring sports writers arguing over the sports news of the day) ; Trolley Around the Agora (TAtA)
+Whose Wisdom/Trolley is it Anyway? (Whose line is it Anyway?, improv comedy show)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Goals
 
-### Markdown
+As with the original "Whose Line?", which was to sharpen improv skills and introduce improv to the public, ATA/WhoseWisdom? is to sharpen philosophical analysis, argumentation, and rhetorical skills, and also display them. Similar to "Around The Horn" in that a topic of interest is discussed from different angles, showing different perspectives.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Rules
 
-```markdown
-Syntax highlighted code block
+1. 3+ players
+2. Randomly chosen player is designated "Moderator".
+3. Other players are then "Contestants".
+4. Contestants rank their choice of "Categories".
+5. Moderator selects a Category from the given by the Contestants and picks a "Thought Experiment" in that Category.
+6. The Thought Experiment is read aloud to all participants.
+7. Players are given a short amount of time to gather their thoughts, do research. Moderator may consult the Thought Experiment in the *Manual* to see professional analysis.
+8. Winning contestant from previous round (or random if none) makes argument about Thought Experiment. Other contestants make counter-points or their own arguments. Everyone gets a chance to speak and respond.
+9. Moderator awards points to Contestants based on quality of their arguments.
+10. Moderator calls end to round after the discussion finishes or designated time has passed.
+11. New Moderator is chosen from one of the contestants and gameplay repeats.
+12. Round is over when everyone has been a Moderator.
+13. Play as many rounds as desired.
 
-# Header 1
-## Header 2
-### Header 3
+Alternatively, one person can be designated the permanent Moderator. For instance, a teacher or adult can moderate the kid contestants. __Try__ to be fair.
 
-- Bulleted
-- List
+The winner can simply feel good about themselves, or alternatively be given a silly honor, as in Whose Line?, or pontification time, as in ATH.
 
-1. Numbered
-2. List
+#### Thought Experiment Requirements
 
-**Bold** and _Italic_ and `Code` text
+- Short, accessible Thought Experiment
+- Tagged with subject categories: ethics, science, social, ...
+- Tagged with age appropriateness: kids, all, adults only, ...
+- Salient points given in *Manual* so an unfamiliar topic to the Moderator can be judged.
+- References for further reading: SEP/IEP article, PhilPapers category, ...
 
-[Link](url) and ![Image](src)
-```
+### Versions
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### Card Game
 
-### Jekyll Themes
+- Thought experiments on numbered cards, sorted by categories.
+- Printed Manual, Thought Experiments listed by number.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nogre/around_the_agora/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### Web/ App
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Database of Thought Experiments, sorted by categories, similar to PhilPapers.
+- Particular pages accessible by card number (above)
+- Feature to randomly select Thought Experiment from selected Categories
