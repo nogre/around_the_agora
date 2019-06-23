@@ -18,7 +18,7 @@ As with the original "Whose Line?", which was to sharpen improv skills and intro
 
 1. 3+ players
 2. Randomly chosen player is designated "Moderator".
-3. Other players are then "Contestants".
+3. Other players are then "Contestants/ Debators".
 4. Contestants rank their choice of "Categories".
 5. Moderator selects a Category from the given by the Contestants and picks a "Thought Experiment" in that Category.
 6. The Thought Experiment is read aloud to all participants.
