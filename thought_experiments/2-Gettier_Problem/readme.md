@@ -31,3 +31,7 @@ Case II
     In fact, Jones does not own a Ford, but by sheer coincidence, Brown really is in Barcelona. Again, Smith had a belief that was true and justified, but not knowledge.
     
 https://en.wikipedia.org/wiki/Gettier_problem
+
+Category: Epistemology
+
+Audience: All
