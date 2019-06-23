@@ -50,7 +50,7 @@ The winner can simply feel good about themselves, or alternatively be given a si
 
 ##### Expansion Packs
 
-Specific interest area focus on:
+Specific interest areas to focus on:
 
 - Regional: Western, Eastern, Latin American, African, ...
 - Temporal: Ancient, Early Modern, Midieval, ...
