@@ -46,7 +46,11 @@ The winner can simply feel good about themselves, or alternatively be given a si
 #### Sources
 
 - Wikipedia "Thougth Experiments" category: https://en.wikipedia.org/wiki/Category:Thought_experiments
-- SEP: https://plato.stanford.edu/
+- SEP: https://plato.stanford.edu/entries/thought-experiment/
+  - Goodies, a collection of intriguing questions in the philosophy of science, some about thought experiments, by John Norton (U. Pittsburgh). http://www.pitt.edu/~jdnorton/Goodies/
+  - An interactive version of Thomson's violin thought experiment. http://www.philosophyexperiments.com/whosebody/Default.aspx
+  - Six famous thought experiments explained quickly. https://www.wimp.com/six-famous-thought-experiments-explained-quickly/
+
 - IEP: https://www.iep.utm.edu/
 
 
