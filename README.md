@@ -21,7 +21,7 @@ As with the original "Whose Line?", which was to sharpen improv skills and intro
 3. Other players are then "Contestants/ Debators".
 4. Contestants rank their choice of "Categories".
 5. Moderator selects a Category from the given by the Contestants and picks a "Thought Experiment" in that Category.
-6. The Thought Experiment is read aloud to all participants.
+6. The Thought Experiment is read aloud, and shown if it has images, to all participants.
 7. Players are given a short amount of time to gather their thoughts, do research. Moderator may consult the Thought Experiment in the *Manual* to see professional analysis.
 8. Winning contestant from previous debate (or random if none) makes argument about Thought Experiment. Other contestants make counter-points or their own arguments. Everyone gets a chance to speak and respond.
 9. Moderator awards points to Contestants based on quality of their arguments.
