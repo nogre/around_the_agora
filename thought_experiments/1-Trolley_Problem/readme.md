@@ -9,3 +9,7 @@ Which is the more ethical option?
 
 
 https://en.wikipedia.org/wiki/Trolley_problem
+
+Category: Ethics
+
+Audience: All
