@@ -39,7 +39,7 @@ The winner can simply feel good about themselves, or alternatively be given a si
 
 - Short, accessible Thought Experiment
 - Tagged with subject categories: ethics, science, social, ...
-- Tagged with age appropriateness: kids, all, adults only, ...
+- Tagged with appropriateness: kids, all, adults only, ...
 - Salient points given in *Manual* so an unfamiliar topic to the Moderator can be judged.
 - References for further reading: SEP/IEP article, PhilPapers category, ...
 
@@ -56,7 +56,7 @@ The winner can simply feel good about themselves, or alternatively be given a si
 - Particular pages accessible by card number (above)
 - Feature to randomly select Thought Experiment from selected Categories
 
-##### Expansion Packs
+##### Expansions
 
 Specific interest areas to focus on:
 
@@ -64,4 +64,6 @@ Specific interest areas to focus on:
   - Regional: Western, Eastern, Latin American, African, ...
   - Temporal: Ancient, Early Modern, Midieval, ...
   - Traditions: religious denominations, particular schools of thought
-- Kid (censored) versions: simplifications & omissions based on perceived badness of topic
+  - Hyper-focused: Medieval logic, feminist epistemology, Thomas Aquinas, ...
+- Censored versions: simplifications & omissions based on perceived badness of topic
+  - not simply a 'kids' version
