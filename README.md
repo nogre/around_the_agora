@@ -10,7 +10,7 @@ Whose Trolley is it Anyway?
     Whose line is it Anyway?, improv comedy show
       - Whose Wisdom is it Anyway?
 
-#### Goals
+### Goals
 
 As with the original "Whose Line?", which was to sharpen improv skills and introduce improv to the public, ATA/WhoseWisdom? is to sharpen philosophical analysis, argumentation, and rhetorical skills, and also display them. Similar to "Around The Horn" in that a topic of interest is discussed from different angles, showing different perspectives.
 
