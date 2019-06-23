@@ -1,8 +1,14 @@
 ### Title / Inspiration
 
-Around the Agora (Around the Horn, ESPN tv show featuring sports writers arguing over the sports news of the day) ; Trolley Around the Agora (TAtA)
+Around the Agora 
 
-Whose Trolley is it Anyway? ; Whose Wisdom is it Anyway? (Whose line is it Anyway?, improv comedy show)
+    Around the Horn, ESPN tv show featuring sports writers arguing over the sports news of the day 
+      - Trolley Around the Agora (TAtA)
+
+Whose Trolley is it Anyway? 
+
+    Whose line is it Anyway?, improv comedy show
+      - Whose Wisdom is it Anyway?
 
 #### Goals
 
