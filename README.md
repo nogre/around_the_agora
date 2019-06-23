@@ -23,9 +23,9 @@ As with the original "Whose Line?", which was to sharpen improv skills and intro
 5. Moderator selects a Category from the given by the Contestants and picks a "Thought Experiment" in that Category.
 6. The Thought Experiment is read aloud to all participants.
 7. Players are given a short amount of time to gather their thoughts, do research. Moderator may consult the Thought Experiment in the *Manual* to see professional analysis.
-8. Winning contestant from previous round (or random if none) makes argument about Thought Experiment. Other contestants make counter-points or their own arguments. Everyone gets a chance to speak and respond.
+8. Winning contestant from previous debate (or random if none) makes argument about Thought Experiment. Other contestants make counter-points or their own arguments. Everyone gets a chance to speak and respond.
 9. Moderator awards points to Contestants based on quality of their arguments.
-10. Moderator calls end to round after the discussion finishes or designated time has passed.
+10. Moderator calls end to debate after the discussion finishes or designated time has passed.
 11. New Moderator is chosen from one of the contestants and gameplay repeats.
 12. Round is over when everyone has been a Moderator.
 13. Play as many rounds as desired.
