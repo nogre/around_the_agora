@@ -47,3 +47,10 @@ The winner can simply feel good about themselves, or alternatively be given a si
 - Database of Thought Experiments, sorted by categories, similar to PhilPapers.
 - Particular pages accessible by card number (above)
 - Feature to randomly select Thought Experiment from selected Categories
+
+##### Expansion Packs
+
+Specific interest area focus on:
+
+- Regional: Western, Eastern, Latin American, African, ...
+- Temporal: Ancient, Early Modern, Midieval, ...
