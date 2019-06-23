@@ -43,6 +43,13 @@ The winner can simply feel good about themselves, or alternatively be given a si
 - Salient points given in *Manual* so an unfamiliar topic to the Moderator can be judged.
 - References for further reading: SEP/IEP article, PhilPapers category, *archived* Wikipedia page, ...
 
+#### Sources
+
+- Wikipedia "Thougth Experiments" category: https://en.wikipedia.org/wiki/Category:Thought_experiments
+- SEP: https://plato.stanford.edu/
+- IEP: https://www.iep.utm.edu/
+
+
 ### Versions
 
 ##### Card Game
