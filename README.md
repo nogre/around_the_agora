@@ -1,4 +1,4 @@
-### Title / Inspiration
+### Titles / Inspiration
 
 Around the Agora 
 
