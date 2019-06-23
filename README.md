@@ -1,7 +1,8 @@
 ### Title / Inspiration
 
 Around the Agora (Around the Horn, ESPN tv show featuring sports writers arguing over the sports news of the day) ; Trolley Around the Agora (TAtA)
-Whose Wisdom/Trolley is it Anyway? (Whose line is it Anyway?, improv comedy show)
+
+Whose Trolley is it Anyway? ; Whose Wisdom is it Anyway? (Whose line is it Anyway?, improv comedy show)
 
 #### Goals
 
@@ -40,7 +41,7 @@ The winner can simply feel good about themselves, or alternatively be given a si
 ##### Card Game
 
 - Thought experiments on numbered cards, sorted by categories.
-- Printed Manual, Thought Experiments listed by number.
+- Printed Manual, Thought Experiments listed by number, categories.
 
 ##### Web/ App
 
@@ -52,5 +53,8 @@ The winner can simply feel good about themselves, or alternatively be given a si
 
 Specific interest areas to focus on:
 
-- Regional: Western, Eastern, Latin American, African, ...
-- Temporal: Ancient, Early Modern, Midieval, ...
+- Topical
+  - Regional: Western, Eastern, Latin American, African, ...
+  - Temporal: Ancient, Early Modern, Midieval, ...
+  - Traditions: religious denominations, particular schools of thought
+- Kid (censored) versions: simplifications & omissions based on perceived badness of topic
