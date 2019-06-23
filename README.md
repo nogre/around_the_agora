@@ -29,6 +29,7 @@ As with the original "Whose Line?", which was to sharpen improv skills and intro
 11. New Moderator is chosen from one of the contestants and gameplay repeats.
 12. Round is over when everyone has been a Moderator.
 13. Play as many rounds as desired.
+14. Talley scores, determine "winner".
 
 Alternatively, one person can be designated the permanent Moderator. For instance, a teacher or adult can moderate the kid contestants. __Try__ to be fair.
 
