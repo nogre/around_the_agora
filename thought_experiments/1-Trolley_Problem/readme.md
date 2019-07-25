@@ -13,3 +13,5 @@ https://en.wikipedia.org/wiki/Trolley_problem
 Category: Ethics
 
 Audience: All
+
+Complexity: 1
