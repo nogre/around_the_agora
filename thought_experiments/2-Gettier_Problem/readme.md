@@ -35,3 +35,5 @@ https://en.wikipedia.org/wiki/Gettier_problem
 Category: Epistemology
 
 Audience: All
+
+Complexity: 3
