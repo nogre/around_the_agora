@@ -71,7 +71,7 @@ Standards for inclusion of a Thought Experiment in the game are at the discretio
 
 - Database of Thought Experiments, sorted by categories, similar to PhilPapers.
 - Particular pages accessible by card number (above)
-- Feature to randomly select Thought Experiment from selected Categories
+- Random selection of Thought Experiment, restricted by category, tags, etc.
 
 ##### Expansions
 
