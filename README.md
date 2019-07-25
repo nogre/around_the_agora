@@ -43,7 +43,8 @@ The winner can simply feel good about themselves, or alternatively be given a si
 - Tagged with appropriateness: kids, all, adults only, trigger warning ...
 - Tagged with difficulty/ complexity level: easy to hard? 1 to 5 stars/ 'crates?
 - Salient points given in *Manual* so an unfamiliar topic to the Moderator can be judged.
-- References for further reading: SEP/IEP article, PhilPapers category, *archived* Wikipedia page, ...
+- Note if this experiment is a variant or sub-experiment of another: Gettier-Style like 'barn facade'
+- References for further reading: original articles or books, SEP/IEP article, PhilPapers category, *archived* Wikipedia page, ...
 
 #### Sources
 
