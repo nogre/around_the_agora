@@ -48,7 +48,7 @@ The winner can simply feel good about themselves, or alternatively be given a si
 
 #### Sources
 
-Standards for inclusion of a Thought Experiment in the game are at the discretion of the editor(s). Thought Experiments in general are diverse, and there may be interesting ones that are unsuitable for the purposes here. Still, as a Thought Experiment Taxonomy project is valuable in itself, please consider submitting any interesting Thought Experiment even if it appears not to be game-appropriate.
+Standards for inclusion of a Thought Experiment in the game are at the discretion of the editor(s). Thought Experiments in general are diverse, and there may be interesting ones that are unsuitable for the purposes here. Still, as a Thought Experiment Taxonomy project is valuable in itself, please consider submitting any interesting Thought Experiment: all quality submissions will be added to an online database.
 
 - Crowd Sourced: Thought Experiments sent in by philosophers (all submissions [CC-BY](https://creativecommons.org/licenses/by/4.0/) or public domain/ [CC0](https://creativecommons.org/choose/zero/))
 - Wikipedia "Thougth Experiments" category: https://en.wikipedia.org/wiki/Category:Thought_experiments
