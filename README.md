@@ -46,6 +46,7 @@ The winner can simply feel good about themselves, or alternatively be given a si
 
 #### Sources
 
+- Crowd Sourced: Thought Experiments sent in by philosophers (all submissions [CC-BY](https://creativecommons.org/licenses/by/4.0/))
 - Wikipedia "Thougth Experiments" category: https://en.wikipedia.org/wiki/Category:Thought_experiments
 - SEP: https://plato.stanford.edu/entries/thought-experiment/
   - Goodies, a collection of intriguing questions in the philosophy of science, some about thought experiments, by John Norton (U. Pittsburgh). http://www.pitt.edu/~jdnorton/Goodies/
