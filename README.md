@@ -77,6 +77,8 @@ Standards for inclusion of a Thought Experiment in the game are at the discretio
 
 ##### Expansions
 
+- Internationalization & Translations
+
 Specific interest areas to focus on:
 
 - Topical
@@ -87,4 +89,3 @@ Specific interest areas to focus on:
 - Censored versions: simplifications & omissions based on perceived badness of topic
   - not simply a 'kids' version
   - ignore/ only select 'triggerable' topics: violence, political, ...
-- Internationalization & Translations
