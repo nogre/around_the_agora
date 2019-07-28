@@ -8,13 +8,13 @@ The game, as with the original "Whose Line?" that was created to sharpen improv 
 
 Around the Agora 
 
-    Around the Horn, ESPN tv show featuring sports writers arguing over the sports news of the day 
-      - Trolley Around the Agora (TAtA)
+ - [Around the Horn](https://www.youtube.com/results?search_query=around+the+horn), ESPN tv show featuring sports writers arguing over the sports news of the day 
+    - Trolley Around the Agora (TAtA)
 
 Whose Trolley is it Anyway? 
 
-    Whose line is it Anyway?, improv comedy show
-      - Whose Wisdom is it Anyway?
+ - [Whose line is it Anyway?](https://www.youtube.com/results?search_query=whose+line+is+it+anyway), improv comedy show
+    - Whose Wisdom is it Anyway?
 
 ### Rules
 
