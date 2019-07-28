@@ -1,4 +1,10 @@
-### Potential Titles / Inspiration
+### Goals
+
+To compile Thought Experiments and make discussing them into a game. 
+
+The game, as with the original "Whose Line?" that was created to sharpen improv skills and introduce improv to the public, ATA/WhoseWisdom? is to sharpen philosophical analysis, argumentation, and rhetorical skills, and also display them. Similar to "Around The Horn" in that a topic of interest is discussed from different angles, showing different perspectives.
+
+### Potential Game Titles / Inspiration
 
 Around the Agora 
 
@@ -9,10 +15,6 @@ Whose Trolley is it Anyway?
 
     Whose line is it Anyway?, improv comedy show
       - Whose Wisdom is it Anyway?
-
-### Goals
-
-As with the original "Whose Line?", which was to sharpen improv skills and introduce improv to the public, ATA/WhoseWisdom? is to sharpen philosophical analysis, argumentation, and rhetorical skills, and also display them. Similar to "Around The Horn" in that a topic of interest is discussed from different angles, showing different perspectives.
 
 ### Rules
 
