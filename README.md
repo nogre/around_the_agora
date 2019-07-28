@@ -16,7 +16,7 @@ Whose Trolley is it Anyway?
  - [Whose line is it Anyway?](https://www.youtube.com/results?search_query=whose+line+is+it+anyway), improv comedy show
     - Whose Wisdom is it Anyway?
 
-### Rules
+### Rules/ Gameplay
 
 1. 3+ players
 2. Randomly chosen player is designated "Moderator".
