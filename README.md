@@ -52,7 +52,7 @@ The winner can simply feel good about themselves, or alternatively be given a si
 
 Standards for inclusion of a Thought Experiment in the game are at the discretion of the editor(s). Thought Experiments in general are diverse, and there may be interesting ones that are unsuitable for the purposes here. Still, as a Thought Experiment Taxonomy Project is valuable in itself, please consider submitting any interesting Thought Experiment: all quality submissions will be added to the online database of Thought Experiments.
 
-[Send in your favorite Thought Experiments here](https://docs.google.com/forms/d/e/1FAIpQLSfSNYjp85S_YTxh6vYa5zNy0eaiZF02UYqCSQVMZcwTvtahyA/viewform). All submissions [CC-BY](https://creativecommons.org/licenses/by/4.0/) or public domain/ [CC0](https://creativecommons.org/choose/zero/). Alternatively create a pull request on this repository.
+[Send in your favorite Thought Experiments here](https://docs.google.com/forms/d/e/1FAIpQLSfSNYjp85S_YTxh6vYa5zNy0eaiZF02UYqCSQVMZcwTvtahyA/viewform). All submissions [CC-BY](https://creativecommons.org/licenses/by/4.0/) or public domain/ [CC0](https://creativecommons.org/choose/zero/). Alternatively create a pull request on this repository or email me at thoughtexperiments@noahgreenstein.com.
 
 Extant:
 
